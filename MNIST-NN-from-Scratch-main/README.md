@@ -71,7 +71,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- **Parth Dambhare** - [parth-6-5-4](https://github.com/parth-6-5-4)
+- **Chirag Chhattani** - [chirag_repo](https://github.com/ChiragChhattani/chirag_repo)
 
 ---
 
